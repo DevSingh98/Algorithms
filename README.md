@@ -1,5 +1,5 @@
 # Algorithms
 
-## Merge-Sort
+### Merge-Sort
 	Time Complexity O(nlogn)
 	Space Complexity O(n)
